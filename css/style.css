@@ -95,7 +95,7 @@
       transform: translateX(0);
   }
   to {
-      transform: translateX(-100%);
+      transform: translateX(-70%);
   }
 }
 
@@ -131,7 +131,7 @@
 }
 .logos-slide {
   display: inline-block;
-  animation: 35s slide infinite linear;
+  animation: 25s slide infinite linear;
 }
 .logos-slide svg {
   height: 75px;
